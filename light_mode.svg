@@ -45,7 +45,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30"><tspan>jafar@banar</tspan><tspan> -——————————————————————————————————————————————-</tspan></tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">macOS, Linux, Windows</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">5 years, 5 months, 3 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">5 years, 5 months, 4 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Volvo Cars (via Sigma Embedded)</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Senior Data Engineer, AI &amp; Perception</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, Claude Code, MATLAB</tspan></tspan>
@@ -65,6 +65,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="450"><tspan>- GitHub Stats</tspan><tspan> -———————————————————————————————————————————-</tspan></tspan>
 <tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">21</tspan><tspan> {</tspan><tspan class="key">Contributed</tspan><tspan>: </tspan><tspan class="value">1</tspan><tspan>}</tspan><tspan> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">0</tspan></tspan>
 <tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">81</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">8,808,990</tspan><tspan> (</tspan><tspan class="addColor">23,295,498</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor">14,486,508</tspan><tspan class="delColor">--</tspan><tspan>)</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">8,809,463</tspan><tspan> (</tspan><tspan class="addColor">23,295,971</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor">14,486,508</tspan><tspan class="delColor">--</tspan><tspan>)</tspan></tspan>
 </text>
 </svg>
