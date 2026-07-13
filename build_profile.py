@@ -201,11 +201,13 @@ text, tspan {{white-space: pre;}}
 </style>''')
     out.append(f'<rect width="985px" height="530px" fill="{theme["bg"]}" rx="15"/>')
 
-    # ascii portrait, vertically centered in 25 rows starting at y=30
-    start = 30 + ((25 - len(ascii_lines)) // 2) * 20
-    out.append(f'<text x="15" y="{start}" fill="{theme["fg"]}" class="ascii">')
+    # ascii portrait at 10px (denser grid than the 16px info panel),
+    # vertically centered in the 500px-tall art area
+    step = 12.5
+    start = 22 + (500 - len(ascii_lines) * step) / 2
+    out.append(f'<text x="15" y="{start}" fill="{theme["fg"]}" class="ascii" font-size="10px">')
     for i, line in enumerate(ascii_lines):
-        out.append(f'<tspan x="15" y="{start + i * 20}">{esc(line)}</tspan>')
+        out.append(f'<tspan x="15" y="{start + i * step}">{esc(line)}</tspan>')
     out.append("</text>")
 
     cls_map = {"key": "key", "value": "value", "add": "addColor", "del": "delColor", "cc": "cc"}
