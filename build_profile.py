@@ -245,7 +245,7 @@ def main():
         (270, kv(["PhD", "Focus"], "5G/6G Sync, Distributed MIMO, Radar")),
         (290, kv(["Founder"], "AIOpt AB — AI for Telecom Ops")),
         (310, header("- Contact")),
-        (330, kv(["Email", "Personal"], "jaafar.banar@gmail.com")),
+        (330, kv(["Email", "Personal"], "jaafar.banar@yahoo.com")),
         (350, kv(["LinkedIn"], "jafarbanar")),
         (370, kv(["GitHub"], "JafarBanar")),
         (390, kv(["Location"], "Gothenburg, Sweden")),

@@ -42,5 +42,5 @@ production LLM/RAG systems, and 4G/5G/6G wireless.
 Interested in AI engineering, agentic systems, and the places where wireless and machine learning meet.
 
 - LinkedIn: [jafarbanar](https://www.linkedin.com/in/jafarbanar/)
-- Email: jaafar.banar@gmail.com
+- Email: jaafar.banar@yahoo.com
 - Location: Gothenburg, Sweden
