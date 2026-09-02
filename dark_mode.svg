@@ -60,7 +60,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30"><tspan>jafar@banar</tspan><tspan> -——————————————————————————————————————————————-</tspan></tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">macOS, Linux, Windows</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">5 years, 6 months, 26 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">5 years, 6 months, 27 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Volvo Cars (via Sigma Embedded)</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">AI/ML &amp; Signal Processing Engineer</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, Claude Code, MATLAB</tspan></tspan>
@@ -78,7 +78,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">JafarBanar</tspan></tspan>
 <tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">Location</tspan><tspan>:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">Gothenburg, Sweden</tspan></tspan>
 <tspan x="390" y="450"><tspan>- GitHub Stats</tspan><tspan> -———————————————————————————————————————————-</tspan></tspan>
-<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">27</tspan><tspan> | </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">94</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">27</tspan><tspan> | </tspan><tspan class="key">Commits</tspan><tspan>:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">93</tspan></tspan>
 <tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Award</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">IEEE ISIT 2025 D2I — 3rd Place</tspan></tspan>
 <tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">8,785,750</tspan><tspan> (</tspan><tspan class="addColor">23,398,824</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor">14,613,074</tspan><tspan class="delColor">--</tspan><tspan>)</tspan></tspan>
 </text>
